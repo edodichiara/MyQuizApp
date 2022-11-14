@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ts_quiz_app">25sp</dimen>
+    <dimen name="margin_cv">20dp</dimen>
+    <dimen name="margin_linear_layout_activity_main">16dp</dimen>
+    <dimen name="ts_welcome">30sp</dimen>
+    <dimen name="ts_enter_your_name">16sp</dimen>
+    <dimen name="margin_cv_title">16dp</dimen>
+    <dimen name="ts_btn_start">16sp</dimen>
+    <dimen name="margin_textview_cardview">30dp</dimen>
+    <dimen name="cv_corner">8dp</dimen>
+</resources>
