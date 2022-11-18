@@ -9,4 +9,5 @@
     <dimen name="ts_btn_start">16sp</dimen>
     <dimen name="margin_textview_cardview">30dp</dimen>
     <dimen name="cv_corner">8dp</dimen>
+    <dimen name="padding_linear_layout">16dp</dimen>
 </resources>

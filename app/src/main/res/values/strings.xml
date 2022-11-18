@@ -7,4 +7,5 @@
     <string name="btn_start">Start</string>
     <string name="toast_enteryourname">Please enter your name!</string>
     <string name="what_country_question">What country does this flag belong to?</string>
+    <string name="quiz_image">Quiz Image</string>
 </resources>
