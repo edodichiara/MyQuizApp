@@ -5,4 +5,6 @@
     <string name="cv_enter_your_name">Please enter your name!</string>
     <string name="hint_name">Name</string>
     <string name="btn_start">Start</string>
+    <string name="toast_enteryourname">Please enter your name!</string>
+    <string name="what_country_question">What country does this flag belong to?</string>
 </resources>
